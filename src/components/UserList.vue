@@ -81,7 +81,4 @@ export default {
 };
 </script>
 
-<style>
-/* Estilos básicos o con TailwindCSS / Bootstrap */
-</style>
   

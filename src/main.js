@@ -5,7 +5,7 @@ import UserListView from './views/UserListView.vue';
 import UserDetailsView from './views/UserDetailsView.vue';
 import BootstrapVue3 from 'bootstrap-vue-3';
 
-// Importar CSS de Bootstrap
+
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-vue-3/dist/bootstrap-vue-3.css';
 
